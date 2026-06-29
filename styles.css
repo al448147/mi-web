@@ -12,5 +12,10 @@ h1 {
 
 p {
     color: aqua;
+    border-color: tomato;
 }
 
+img {
+    width: 500px;
+    height: 500px;
+}
